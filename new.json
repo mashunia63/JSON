@@ -1,4 +1,6 @@
-{Name:"Maria",
-Age:29,
-Pets:0,
-Salary:100000}
+{
+"Name":"Maria",
+"Age":29,
+"Pets":0,
+"Salary":100000
+}
